@@ -20,6 +20,7 @@
 
 |    站点名称    |          站点地址          |
 |:----------:|:----------------------:|
+|   彼岸SKY   |   https://blog.lonelyx.cn   |
 |   Roozen   |   https://roozen.top   |
 | Carol`s 小屋 | https://blog.cnkj.site |
 |    小窝哟     | https://blog.528688.cn |
